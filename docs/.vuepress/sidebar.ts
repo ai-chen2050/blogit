@@ -4,10 +4,10 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   // "/Fitness",  // 可以直接索引 markdown 文章
   // 读书笔记架构更换到 docsify，不能使用相对链接
-  { text: "📖 读书笔记", icon: "read", link: "",
+  { text: "读书笔记", icon: "read", link: "",
     prefix: "/reading/",
     collapsible: true,
-    children: "structure",
+    // children: "structure",
   },
   // 指定显示页面
   {
