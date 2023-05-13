@@ -4,10 +4,21 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   // "/Fitness",  // 可以直接索引 markdown 文章
   // 读书笔记架构更换到 docsify，不能使用相对链接
-  { text: "读书笔记", icon: "read", link: "",
-    prefix: "/reading/",
-    collapsible: true,
-    // children: "structure",
+  { text: "笔记", icon: "read", link: "https://blog.csdn.net/smilejiasmile",
+  //   prefix: "/reading/",
+  //   collapsible: true,
+    children: [
+      // "/reading/",
+      // "0_自我提升/提升思维.md"
+      // {
+      //   text: "自我提升",
+      //   icon: "load",
+      //   prefix: "0_自我提升",
+      //   link: "",
+      //   collapsible: true,
+      //   children: "structure",
+      // },
+    ],
   },
   // 指定显示页面
   {
