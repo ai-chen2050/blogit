@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/blogit/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://newzone.top/blogit/rss.xml" rel="self" type="application/rss+xml"/>
     <title>BLAKE CHEN&amp;apos;S HOME</title>
-    <link>https://newzone.top/</link>
+    <link>https://newzone.top/blogit/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 May 2023 12:09:31 GMT</pubDate>
-    <lastBuildDate>Sat, 13 May 2023 12:09:31 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Aug 2023 16:26:36 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Aug 2023 16:26:36 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>系统</category>
     <category>工具</category>
     <item>
       <title>加速 SMB 协议，让 PC 变身小型 NAS</title>
-      <link>https://newzone.top/posts/2017-09-03-smb_lan_sharing.html</link>
-      <guid>https://newzone.top/posts/2017-09-03-smb_lan_sharing.html</guid>
-      <source url="https://newzone.top/rss.xml">加速 SMB 协议，让 PC 变身小型 NAS</source>
+      <link>https://newzone.top/blogit/posts/2017-09-03-smb_lan_sharing.html</link>
+      <guid>https://newzone.top/blogit/posts/2017-09-03-smb_lan_sharing.html</guid>
+      <source url="https://newzone.top/blogit/rss.xml">加速 SMB 协议，让 PC 变身小型 NAS</source>
       <description>Windows 系统开启 SMB 协议： 打开「控制面板」窗口，在「类别」查看方式下单击「程序」。 打开「程序」窗口，单击「启用或关闭 windows 功能」。 打开「windows 功能」窗口，勾选 SMB 直通。 勾选「远程差分压缩 API 支持」。</description>
       <category>系统</category>
       <pubDate>Sun, 03 Sep 2017 20:57:00 GMT</pubDate>
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>抛弃迅雷，Aria2 新手入门</title>
-      <link>https://newzone.top/posts/2018-05-15-aria2_a_new_download_tool.html</link>
-      <guid>https://newzone.top/posts/2018-05-15-aria2_a_new_download_tool.html</guid>
-      <source url="https://newzone.top/rss.xml">抛弃迅雷，Aria2 新手入门</source>
+      <link>https://newzone.top/blogit/posts/2018-05-15-aria2_a_new_download_tool.html</link>
+      <guid>https://newzone.top/blogit/posts/2018-05-15-aria2_a_new_download_tool.html</guid>
+      <source url="https://newzone.top/blogit/rss.xml">抛弃迅雷，Aria2 新手入门</source>
       <description>迅雷已经用了 10 年，一直将它视为最快也最方便的下载工具，也一直购买迅雷会员。 但是，迅雷已经堕落。 thunder:\\ 迅雷专属链接越来越少，下载基本是磁力链接和 BT 种子； 迅雷会员加速不再有效，大量资源速度为 0（会员虽然还有一年多，但已经没用了）； 迅雷关闭旧版功能，迫使大家升级迅雷 U 享版，但升级后，发现新版迅雷会强制接收所有下载。 有些小文件，我只想用浏览器直接下载，而一些不想下载的链接，也会被迅雷非常敏感地感应到，强制下载，真的特别流氓。</description>
       <category>工具</category>
       <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
@@ -146,9 +146,9 @@
     </item>
     <item>
       <title>抛弃又贵又难用的录屏软件，3 分钟入门 FFmpeg</title>
-      <link>https://newzone.top/posts/2022-11-03-ffmpeg_screen_recording.html</link>
-      <guid>https://newzone.top/posts/2022-11-03-ffmpeg_screen_recording.html</guid>
-      <source url="https://newzone.top/rss.xml">抛弃又贵又难用的录屏软件，3 分钟入门 FFmpeg</source>
+      <link>https://newzone.top/blogit/posts/2022-11-03-ffmpeg_screen_recording.html</link>
+      <guid>https://newzone.top/blogit/posts/2022-11-03-ffmpeg_screen_recording.html</guid>
+      <source url="https://newzone.top/blogit/rss.xml">抛弃又贵又难用的录屏软件，3 分钟入门 FFmpeg</source>
       <description>当所有的录屏应用都无法满足我时，我的目光投向了那个最终极的命令行工具，FFmpeg。 开始自我监控后，录屏工具的重要性迅速提升，我遇到的问题也越来越多。因为我录屏主要是为了自我监控，所以我需要的帧率不必很高，甚至越低越好，分辨率也不必和屏幕一致，只要能看清我在做什么就可以了。</description>
       <category>工具</category>
       <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
