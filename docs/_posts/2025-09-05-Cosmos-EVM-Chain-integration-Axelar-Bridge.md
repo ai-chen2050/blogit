@@ -1,6 +1,7 @@
 ---
 author: Blake Chan
 email: ai-chen2050@qq.com
+title: Cosmos EVM Chain integration Axelar Bridge
 digest: 
 banner: 
 status: TODO
@@ -15,7 +16,7 @@ genre: work
 
 ## 架构示意图
 
-![axelar-amplifier](../../axelar-amplifier.png)
+![axelar-amplifier](../img/axelar-amplifier.png)
 
 ## Axelar 代码库及文档资源
 
